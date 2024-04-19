@@ -24,11 +24,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Lee</h1>
 <h3 align="center">Data Analyst</h3>
 
-🌱 I’m currently completing a **Level 3 Data Bootcamp** with **<a href="https://www.justit.co.uk/">JustIT**
+I’m currently completing a **Level 3 Data Bootcamp** with **<a href="https://www.justit.co.uk/">JustIT**
 
 <!---📄 Know about my experiences [www.linkedin.com/in/leehembling](www.linkedin.com/in/leehembling) --->
-
-📫 Get in touch **leehembling@mac.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
