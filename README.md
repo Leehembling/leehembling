@@ -24,10 +24,40 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Lee</h1>
 <h3 align="center">Data Analyst</h3>
 
-I’m currently completing a **Level 3 Data Bootcamp** with **<a href="https://www.justit.co.uk/">JustIT**
+<!---```markdown --->
+
+I'm a former teacher and now **Data Analyst** currently completing a **Level 3 Data Bootcamp** with **JustIT**. I enjoy turning data into actionable insights and telling stories through data visualization. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
+
+🔍 **Skills & Tools:**
+- Proficient in **Microsoft Access** & **Excel** for data organization and analysis.
+- Skilled in **MySQL** for managing databases.
+- Exploring **Python** with libraries like **Pandas** for data manipulation and analysis.
+- Delving into **R** for statistical computing.
+- Creating compelling visualizations with **Power BI** and **Tableau**.
+- Leveraging **Azure** for cloud computing and storage solutions.
+
+🌱 **Currently Learning:**
+- Advanced data modelling techniques.
+- Machine learning algorithms to predict trends and patterns.
+- Big data analytics using Azure.
+
+📈 **Projects:**
+- Developed a sales dashboard in Power BI to track performance metrics.
+- Analyzed customer data using Python to identify key market segments.
+- Created an interactive Tableau report to visualize economic data trends.
+
+🎯 **Goals:**
+- To continuously learn and apply new data analysis methodologies.
+- Contribute to open-source projects and collaborate with the data science community.
+- Develop predictive models that can influence strategic business decisions.
+
+
+<!---```
 
 <!---📄 Know about my experiences [www.linkedin.com/in/leehembling](www.linkedin.com/in/leehembling) --->
-
+<!--- 📫 **How to reach me:**
+- Feel free to connect with me on [LinkedIn](#) or drop me an email at [myemail@example.com](mailto:myemail@example.com).
+--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:leehembling@mac.com.com" target="blank"><img align="center" src="https://img.shields.io/badge/email%3A_leehembling%40mac.com-white?style=flat-square&labelColor=blue&color=white&link=mailto%3Aleehembling%40mac.com" height="30"</a><a href="https://linkedin.com/in/leehembling" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="leehembling" height="30"/></a><a href="https://learn.microsoft.com/en-us/users/leehembling-1630/" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white" alt="leehembling" height="30"/></a><a href="https://www.kaggle.com/leehembling" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="leehembling" height="30"/></a><a href="https://public.tableau.com/app/profile/lee.hembling/vizzes" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="leehembling" height="30"></a>
