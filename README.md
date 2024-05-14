@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 I'm a former teacher and now **Data Analyst** currently completing a **Level 3 Data Bootcamp** with **JustIT**. I enjoy turning data into actionable insights and telling stories through data visualization. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
 
 🔍 **Skills & Tools:**
-- Proficient in **Microsoft Access** & **Excel** for data organization and analysis.
+- Proficient in **Microsoft Access**,**Excel** & **Google Sheets** for data organization and analysis.
 - Skilled in **MySQL** for managing databases.
 - Exploring **Python** with libraries like **Pandas** for data manipulation and analysis.
 - Delving into **R** for statistical computing.
