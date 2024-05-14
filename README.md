@@ -78,7 +78,9 @@ I'm a former teacher and now **Data Analyst** currently completing a **Level 3 D
 
 <p align="left"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leehembling&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehembling&show_icons=true&locale=en&layout=compact" alt="leehembling" /></p> --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leehembling&label=Profile%20views&color=0e75b6&style=flat" alt="leehembling" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leehembling" alt="leehembling" /></a> </p>
+<!---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leehembling" alt="leehembling" /></a> </p> --->
