@@ -28,14 +28,14 @@ You can click the Preview link to take a look at your changes.
 
 I'm a former teacher and now **Data Analyst** who in 2024 completed a **Level 3 Data Bootcamp** with **JustIT**. Following this, I gained employment as a Data Analyst with a company offering data management services to the social housing sector, but was unfortunately recently made redundant due to the company downsizing.
 
-I enjoy turning data into actionable insights and telling stories through data visualization. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
+I enjoy turning data into actionable insights and telling stories through data visualisation. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
 
 🔍 **Skills & Tools:**
-- Proficient in **Microsoft Access**,**Excel** & **Google Sheets** for data organization and analysis.
+- Proficient in **Microsoft Access**,**Excel** & **Google Sheets** for data organisation and analysis.
 - Skilled in **MySQL** for managing databases.
 - Exploring **Python** with libraries like **Pandas** for data manipulation and analysis.
 - Delving into **R** for statistical computing.
-- Creating compelling visualizations with **Power BI** and **Tableau**.
+- Creating compelling visualisations with **Power BI** and **Tableau**.
 - Leveraging **Azure** for cloud computing and storage solutions.
 
 🌱 **Currently Learning:**
@@ -47,7 +47,7 @@ I enjoy turning data into actionable insights and telling stories through data v
 📈 **Projects:**
 - Developed a sales dashboard in Power BI to track performance metrics.
 - Analyzed customer data using Python to identify key market segments.
-- Created an interactive Tableau report to visualize economic data trends.
+- Created an interactive Tableau report to visualise economic data trends.
 - WIP: Developing a basic app to use with the Football Manager series of games that aids with team selection.
 
 🎯 **Goals:**
