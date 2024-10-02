@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---```markdown --->
 
-I'm a former teacher and now **Data Analyst** who in 2024 completed a **Level 3 Data Bootcamp** with **JustIT**. Following this, I gained employment as a Data Analyst with a company offering data management services to the social housing sector, but was unfortunately recently made redundant due to the company downsizing.
+I'm a former teacher and now **Data Analyst**, who in 2024 completed a **Level 3 Data Bootcamp** with **JustIT**. Following this, I gained employment as a Data Analyst with a company offering data management services to the social housing sector, but was unfortunately recently made redundant due to the company downsizing.
 
 I enjoy turning data into actionable insights and telling stories through data visualisation. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
 
