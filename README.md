@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
 
 <!---```markdown --->
 
-I'm a former teacher and now **Data Analyst** currently completing a **Level 3 Data Bootcamp** with **JustIT**. I enjoy turning data into actionable insights and telling stories through data visualization. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
+I'm a former teacher and now **Data Analyst** who in 2024 completed a **Level 3 Data Bootcamp** with **JustIT**. Following this, I gained employment as a Data Analyst with a company offering data management services to the social housing sector, but was unfortunately recently made redundant due to the company downsizing.
+
+I enjoy turning data into actionable insights and telling stories through data visualization. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
 
 🔍 **Skills & Tools:**
 - Proficient in **Microsoft Access**,**Excel** & **Google Sheets** for data organization and analysis.
@@ -38,6 +40,7 @@ I'm a former teacher and now **Data Analyst** currently completing a **Level 3 D
 
 🌱 **Currently Learning:**
 - Advanced data modelling techniques.
+- Different Python libraries
 - Machine learning algorithms to predict trends and patterns.
 - Big data analytics using Azure.
 
@@ -45,11 +48,13 @@ I'm a former teacher and now **Data Analyst** currently completing a **Level 3 D
 - Developed a sales dashboard in Power BI to track performance metrics.
 - Analyzed customer data using Python to identify key market segments.
 - Created an interactive Tableau report to visualize economic data trends.
+- WIP: Developing a basic app to use with the Football Manager series of games that aids with team selection.
 
 🎯 **Goals:**
 - To continuously learn and apply new data analysis methodologies.
 - Contribute to open-source projects and collaborate with the data science community.
 - Develop predictive models that can influence strategic business decisions.
+- Find a role to really develop my skills and maximise my enthusiasm and drive!
 
 
 <!---```
