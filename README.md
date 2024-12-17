@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN6M201azVvMXlzY2hiZzc5ZjBxejA2dTN0NDIzNmY2dDF1OG1tciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jjcvCCXrM3iCY/giphy.gif" width="100"/>
+  <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN6M201azVvMXlzY2hiZzc5ZjBxejA2dTN0NDIzNmY2dDF1OG1tciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jjcvCCXrM3iCY/giphy.gif" width="100"/>
  <!-- <div id="badges">
   <a href="www.linkedin.com/in/leehembling">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,12 +21,12 @@
 Leehembling/Leehembling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Lee</h1>
-<h3 align="center">Data Analyst</h3>
+
+<!--<h3 align="center">Data Analyst</h3>
 
 <!---```markdown --->
 
-I'm a former teacher and now **Data Analyst**, who in 2024 completed a **Level 3 Data Bootcamp** with **JustIT**. Following this, I gained employment as a Data Analyst with a company offering data management services to the social housing sector, but was unfortunately recently made redundant due to the company downsizing.
+I'm a former teacher and now **Data Analyst**, who in 2024 completed a **Level 3 Data Bootcamp** with **JustIT**. Following this, I gained employment as a Junior Business Data Analyst offering data management services to the social housing sector.
 
 I enjoy turning data into actionable insights and telling stories through data visualisation. With a knack for problem-solving and a keen eye for detail, I'm on a journey to master the art of data analytics.
 
